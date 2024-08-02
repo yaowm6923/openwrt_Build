@@ -4,7 +4,7 @@
 # Author: kenzo
 #=================================================
 
-name: Lean x86/64
+name: Lean
 
 on:
   repository_dispatch:
